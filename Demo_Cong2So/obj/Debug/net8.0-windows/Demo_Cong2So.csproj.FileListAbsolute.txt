@@ -1,0 +1,16 @@
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\bin\Debug\net8.0-windows\Demo_Cong2So.exe
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\bin\Debug\net8.0-windows\Demo_Cong2So.deps.json
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\bin\Debug\net8.0-windows\Demo_Cong2So.runtimeconfig.json
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\bin\Debug\net8.0-windows\Demo_Cong2So.dll
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\bin\Debug\net8.0-windows\Demo_Cong2So.pdb
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\obj\Debug\net8.0-windows\Demo_Cong2So.Form1.resources
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\obj\Debug\net8.0-windows\Demo_Cong2So.csproj.GenerateResource.cache
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\obj\Debug\net8.0-windows\Demo_Cong2So.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\obj\Debug\net8.0-windows\Demo_Cong2So.AssemblyInfoInputs.cache
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\obj\Debug\net8.0-windows\Demo_Cong2So.AssemblyInfo.cs
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\obj\Debug\net8.0-windows\Demo_Cong2So.csproj.CoreCompileInputs.cache
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\obj\Debug\net8.0-windows\Demo_Cong2So.dll
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\obj\Debug\net8.0-windows\refint\Demo_Cong2So.dll
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\obj\Debug\net8.0-windows\Demo_Cong2So.pdb
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\obj\Debug\net8.0-windows\Demo_Cong2So.genruntimeconfig.cache
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Demo_Cong2So\obj\Debug\net8.0-windows\ref\Demo_Cong2So.dll

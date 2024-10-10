@@ -1,0 +1,16 @@
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\obj\Debug\net8.0-windows\Ex1_Slide6.frmEmployeeDetails.resources
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\obj\Debug\net8.0-windows\Ex1_Slide6.csproj.GenerateResource.cache
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\obj\Debug\net8.0-windows\Ex1_Slide6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\obj\Debug\net8.0-windows\Ex1_Slide6.AssemblyInfoInputs.cache
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\obj\Debug\net8.0-windows\Ex1_Slide6.AssemblyInfo.cs
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\obj\Debug\net8.0-windows\Ex1_Slide6.csproj.CoreCompileInputs.cache
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\bin\Debug\net8.0-windows\Ex1_Slide6.exe
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\bin\Debug\net8.0-windows\Ex1_Slide6.deps.json
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\bin\Debug\net8.0-windows\Ex1_Slide6.runtimeconfig.json
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\bin\Debug\net8.0-windows\Ex1_Slide6.dll
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\bin\Debug\net8.0-windows\Ex1_Slide6.pdb
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\obj\Debug\net8.0-windows\Ex1_Slide6.dll
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\obj\Debug\net8.0-windows\refint\Ex1_Slide6.dll
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\obj\Debug\net8.0-windows\Ex1_Slide6.pdb
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\obj\Debug\net8.0-windows\Ex1_Slide6.genruntimeconfig.cache
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Ex1_Slide6\obj\Debug\net8.0-windows\ref\Ex1_Slide6.dll

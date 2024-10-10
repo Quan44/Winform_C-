@@ -1,0 +1,16 @@
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\bin\Debug\net8.0-windows\Account_Management.exe
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\bin\Debug\net8.0-windows\Account_Management.deps.json
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\bin\Debug\net8.0-windows\Account_Management.runtimeconfig.json
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\bin\Debug\net8.0-windows\Account_Management.dll
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\bin\Debug\net8.0-windows\Account_Management.pdb
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\obj\Debug\net8.0-windows\Account_Management.Form1.resources
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\obj\Debug\net8.0-windows\Account_Management.csproj.GenerateResource.cache
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\obj\Debug\net8.0-windows\Account_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\obj\Debug\net8.0-windows\Account_Management.AssemblyInfoInputs.cache
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\obj\Debug\net8.0-windows\Account_Management.AssemblyInfo.cs
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\obj\Debug\net8.0-windows\Account_Management.csproj.CoreCompileInputs.cache
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\obj\Debug\net8.0-windows\Account_Management.dll
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\obj\Debug\net8.0-windows\refint\Account_Management.dll
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\obj\Debug\net8.0-windows\Account_Management.pdb
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\obj\Debug\net8.0-windows\Account_Management.genruntimeconfig.cache
+C:\Users\MerQyan\Documents\Workspace\C#\WinFormsApp\Account_Management\obj\Debug\net8.0-windows\ref\Account_Management.dll
